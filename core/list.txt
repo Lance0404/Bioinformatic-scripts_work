@@ -1,0 +1,13 @@
+# SET:<case1[,case2,...]>;<control1[,control2,...]>
+SET:10427-brain;KMU02-brain
+SET:10427-liver;KMU02-liver
+SET:10427-kidney;KMU02-kidney
+SET:10418-brain;10428-brain
+SET:10418-liver;10428-liver
+SET:10418-kidney;10428-kidney
+SET:10416-brain;10427-brain
+SET:10416-liver;10427-liver
+SET:10416-kidney;10427-kidney
+SET:10428-brain;KMU02-brain
+SET:10428-liver;KMU02-liver
+SET:10428-kidney;KMU02-kidney

@@ -1,0 +1,8 @@
+# REFERENCE=<bowtie2 index title>
+REFERENCE=/export/arrayPRO2/DataBase/mm10/RSEM/reference/mm10.refseq_125polyA
+# NGVEC=<ngvector for ebseq use>
+NGVEC=/export/arrayPRO2/DataBase/mm10/RSEM/reference/mm10.refseq_125polyA.transcripts.ngvec
+FASTQSTATS=template/html/fastqstats_template
+SAMSTATS=template/html/samstats_template
+INDEX=template/index_template
+GOKEGG=template/html/Picture_template
