@@ -6,3 +6,5 @@ FASTQSTATS=template/html/fastqstats_template
 SAMSTATS=template/html/samstats_template
 INDEX=template/index_template
 GOKEGG=template/html/Picture_template
+
+What the fuck is going on here.
